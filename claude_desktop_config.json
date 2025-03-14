@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "githubRepo": {
+            "command": "wsl.exe",
+            "args": [
+                "bash",
+                "-c",
+                "uv --directory $PATH_TO_WEATHER run githubRepoStats.py"
+            ]
+        }
+    }
+}
