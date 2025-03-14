@@ -10,3 +10,5 @@ Claude Desktop
 Move claude_desktop_config.json to appropriate application directory:
 C:\Users\$USERNAME$\AppData\Roaming\Claude\claude_desktop_config.json
 Add github API token to .env file.
+
+![KarpathyClaudeMCPresponse](https://github.com/user-attachments/assets/e42cc68f-8d5d-4150-826e-918b01d14bde)
