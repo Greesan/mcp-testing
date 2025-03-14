@@ -1,7 +1,7 @@
 Working to understand how to use the Model Context Protocol<br>
-weather.py is my replication of the tutorial: https://modelcontextprotocol.io/quickstart/server<br>
-to get githubRepoStats working, add your github API token in a .env file<br>
-built this to figure out what cool api's I can get use to get information into a LLM<br>
+Weather.py is my replication of the tutorial: https://modelcontextprotocol.io/quickstart/server<br>
+To get githubRepoStats.py working, add your github API token in an .env file<br>
+I built this to figure out what cool apis I can use to get information into a LLM<br>
 Cursor helped in code generation for githubRepoStats.py.<br>
 
 Requirements:<br>
